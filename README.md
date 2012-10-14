@@ -4,7 +4,9 @@ InstanceListPattern
 Easily make your object maintain an internal list of instances, relies on the programmer to Dispose();
 
 You can install from Package Manager Console:
-PM> Install-Package InstanceListPattern
+
+    PM> Install-Package InstanceListPattern
+
 
 Here is an example:
 
